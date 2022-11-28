@@ -1,2 +1,2 @@
 # monster
-A monster using HTML + CSS + JS
+ Monster using html + css + js
